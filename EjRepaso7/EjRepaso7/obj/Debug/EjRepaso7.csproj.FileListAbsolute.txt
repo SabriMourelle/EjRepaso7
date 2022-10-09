@@ -1,0 +1,7 @@
+C:\Users\saamo\Documents\GitHub\EjRepaso7\EjRepaso7\EjRepaso7\bin\Debug\EjRepaso7.exe.config
+C:\Users\saamo\Documents\GitHub\EjRepaso7\EjRepaso7\EjRepaso7\bin\Debug\EjRepaso7.exe
+C:\Users\saamo\Documents\GitHub\EjRepaso7\EjRepaso7\EjRepaso7\bin\Debug\EjRepaso7.pdb
+C:\Users\saamo\Documents\GitHub\EjRepaso7\EjRepaso7\EjRepaso7\obj\Debug\EjRepaso7.csproj.AssemblyReference.cache
+C:\Users\saamo\Documents\GitHub\EjRepaso7\EjRepaso7\EjRepaso7\obj\Debug\EjRepaso7.csproj.CoreCompileInputs.cache
+C:\Users\saamo\Documents\GitHub\EjRepaso7\EjRepaso7\EjRepaso7\obj\Debug\EjRepaso7.exe
+C:\Users\saamo\Documents\GitHub\EjRepaso7\EjRepaso7\EjRepaso7\obj\Debug\EjRepaso7.pdb
